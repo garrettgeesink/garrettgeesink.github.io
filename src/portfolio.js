@@ -1,6 +1,6 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://garrettgeesink.com',
+  homepage: 'https://garrettgeesink.github.io',
   title: 'GG.',
 }
 
@@ -10,7 +10,7 @@ const about = {
   role: 'Software Engineer',
   description:
     'I am a passionate and driven software engineer with a strong foundation in computer science and a commitment to delivering innovative technologies. My goal is to leverage my technical expertise to develop robust and user-friendly software.',
-  resume: 'https://garrettgeesink.com/',
+  resume: 'Super secret text :)',
   social: {
     linkedin: 'https://www.linkedin.com/in/garrett-geesink/',
     github: 'https://github.com/garrettgeesink',
@@ -19,7 +19,7 @@ const about = {
 
 const projects = [
   // projects can be added an removed
-  // if there are no projects, Projects section won't show up 
+  // if there are no projects, Projects section won't show up
   {
     name: 'TypeFight',
     description:
